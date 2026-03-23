@@ -1,26 +1,20 @@
 {
   "name": "COFINESCO - Sistema Contable",
   "short_name": "COFINESCO",
-  "description": "Sistema de gestión contable para asociaciones de padres de familia",
+  "description": "Control Financiero Escolar",
+  "start_url": "index.html",
   "lang": "es",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#0b2d56",
-  "theme_color": "#17539E",
+  "background_color": "#001e3c",
+  "theme_color": "#001e3c",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiDAjiUjs3eGtm043MvUKA8RsML-2u4wfEbd6bsiAn6X7v7Xssk1kPTJMOyBnzzKbIykgvGRLeG6RU5WL3MA_-he5rDjnODNisS25OaVvpoyrFm_9w0fw6aLQ4qx5gMVLSdg-KXxogKHKlM-XO9KzkNysjgqP4uD0HDTUQ_tBWuGRBXejn8974_Y0uFnLZm",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh-ZheEI0cHt3lE1ekUOIIT9uMXZ1XAUaxaMhtBvfQUQ_EQ82-AfkqSFdcXWZ8RkkPQzVSj5nRwW7mxVmpKYCfRfNZE_jppok92a-YQOEsTSIB03ANBvqDri0Jc_iFScPdsH_MO-hx64FbOOKW1ZPFVj_6GFDaR6UP74zwUFeHEGUyrpukcSdzBJ7u8NOLq",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiDAjiUjs3eGtm043MvUKA8RsML-2u4wfEbd6bsiAn6X7v7Xssk1kPTJMOyBnzzKbIykgvGRLeG6RU5WL3MA_-he5rDjnODNisS25OaVvpoyrFm_9w0fw6aLQ4qx5gMVLSdg-KXxogKHKlM-XO9KzkNysjgqP4uD0HDTUQ_tBWuGRBXejn8974_Y0uFnLZm",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
